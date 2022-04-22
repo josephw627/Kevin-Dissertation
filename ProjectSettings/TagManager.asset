@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CityGen3D
+  - RoadSensor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Landscape
+  - Map Surface
+  - Map Road
+  - Map Building
+  - Map Tree
+  - Map Entity
+  - Map Feature
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Feature
+  - Entity
+  - Building
+  - Highway
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
